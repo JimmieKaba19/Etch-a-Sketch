@@ -24,12 +24,12 @@ h1, p{
     margin: 20px auto;
     flex-wrap: wrap;
     border-radius: 10px;
+    border: 2px solid #fff;
 }
 
 .grid-item {
     width: calc(1000px / 16);
     height: calc(1000px / 16);
-    border: 1px solid #fff;
     box-sizing: border-box;
 }
 
